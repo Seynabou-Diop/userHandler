@@ -1,0 +1,64 @@
+# Compiled class files
+*.class
+
+# Module files
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.nar
+
+# Logs and databases #
+*.log
+*.sql
+*.jlg
+*.db
+*.dat
+*.hprof
+
+# IDE files #
+/.idea/
+*.eclipse
+*.settings/
+*.project
+.classpath
+
+# Build directories #
+/target/
+/build/
+/out/
+dist/
+temp/
+web/WEB-INF/classes/
+
+# OS files #
+.DS_Store
+Thumbs.db
+
+# Local configuration files #
+*.swo
+*.swp
+*~.nib
+local.properties
+src/main/resources/application.properties
+
+# Security #
+*.crt
+*.key
+*.p12
+*.pem
+
+# Server deployment configuration #
+deploy/
+
+# Virtual Machine Files #
+*.vmdk
+*.vmx
+*.vmxf
+
+# Other #
+*.bak
+*.swp
+*.tmp
